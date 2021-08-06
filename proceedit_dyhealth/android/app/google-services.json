@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973177124080",
+    "firebase_url": "https://dyhealth-rhc-eb424.firebaseio.com",
+    "project_id": "dyhealth-rhc-eb424",
+    "storage_bucket": "dyhealth-rhc-eb424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973177124080:android:e15dae07a10dedde583e35",
+        "android_client_info": {
+          "package_name": "com.proceedit.proceedit_dyhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973177124080-crmq5553kbtsncgj9t0t61p4bornr2ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proceedit.proceedit_dyhealth",
+            "certificate_hash": "698d0799cca2d998db8b33124aec5c3749b8b35e"
+          }
+        },
+        {
+          "client_id": "973177124080-hiokat86jfde4bf8oajt4f45tlgug8ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8xe3XS9W-RfMfWfk1WeGEKeQ9qo554cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973177124080-hiokat86jfde4bf8oajt4f45tlgug8ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
