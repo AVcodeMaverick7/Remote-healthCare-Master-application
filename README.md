@@ -25,11 +25,11 @@ This application is a host of components that are prevelant in diagnosis of a pa
 
 ### Screen 4 
 
-![Screen 4](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/screens/screen4.jpeg)
+![Screen 4](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/screens/screen4.png)
 
 ### Screen 5 
 
-![Screen 5](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/screens/screen5.jpeg)
+![Screen 5](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/screens/screen5.png)
 
 >For more details about Remote HealthCare+ Master Application, please check this document [Master Application](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/Remote-HealthCare-Master-Application.pdf)
 
